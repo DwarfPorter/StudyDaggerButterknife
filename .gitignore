@@ -31,3 +31,10 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 .idea
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
